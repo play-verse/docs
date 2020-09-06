@@ -1,7 +1,7 @@
 ---
 id: doc1
 title: How to play
-sidebar_label: Example Page
+sidebar_label: How to play
 ---
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
