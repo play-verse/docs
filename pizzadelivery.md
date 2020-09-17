@@ -9,6 +9,7 @@ Jika kalian sedang menjalankan pekerjaan ini berarti kalian bekerja sebagai seor
 ![lokasi tempat kerja pizza delivery ](https://i.ibb.co/zhbZW0J/qyvuyh6or-Grr-Qb-Zx-Pj-YZ8-Ci-ASOh-Js-AQVEa-Ut-I7-UEv5w-Noq-VM1-Dyr-GDW91-Qmc-GBv-Ji1du-NBrzf-Hx-Q-G.png)
 
 Tempatnya :
+
 ![tempat kerja pizza delivery](https://i.ibb.co/hFXstHy/M5-T4us-SHa9k-LD-Kf-Du-MB2-Lw-TZIa-Ko-B9-QVu-A-Ld-KO8-Bnod-q-AFqg-GKDht9-Fl-TUc-Scs-T1-C0t-Iuib546f.png)
 
 Silahkan kalian simak petunjuk dibawah ini bekerja sebagai seorang pengantar pizza :
