@@ -18,7 +18,7 @@ Silahkan kalian simak petunjuk dibawah ini bekerja sebagai seorang pengantar piz
 
 ![enter image description here](https://i.ibb.co/4tQzdFm/W6m-Ribhz-FAsc-MUEIbwnppj-Mu9-Rb-NMBc1r-NF2-JQ34-NLTIGhhtsek-X08b6g-I1jn4m-IW-6l8-Zk-MRHFWLfjd-HBqv.png)
  
- 2. Ikuti tanda merah pada map untuk mengantar pizza kedepan rumah customer, lalu turunlah dari kendaraan anda lalu gunakan cmd /pizzaboy untuk mengambil pizza dari box setelah muncul menu lalu pilih ambil pizza.
+ 2. Ikuti tanda merah pada map untuk mengantar pizza kedepan rumah customer, lalu turunlah dari kendaraan anda lalu gunakan cmd `/pizzaboy` untuk mengambil pizza dari box setelah muncul menu lalu pilih ambil pizza.
 
 ![enter image description here](https://i.ibb.co/NsKWFK2/2co1aqto-E-Z05-Aqm-Eo-Gsgf03p9v-Ugfhi76-TW0-Oz7-Qk-ptx-Ggo-FBFq-I-z2-FJZRovm-ITl-c3i-MHWz7-RNYa-KHVP.png)
  
@@ -26,7 +26,7 @@ Silahkan kalian simak petunjuk dibawah ini bekerja sebagai seorang pengantar piz
 
 ![enter image description here](https://i.ibb.co/fx73G2p/s9u-NGI2-Zpe-Tfk-REKCNOy26c-Pht7t1mq7-FBpfu-Sogdj-EHg-Tc-Hlx4uu-Ab-U9kb-OR5-V3ju0d-Uq49j4td-EEY3z0la.png)
  
- 4. Untuk mengecek muatan pizza anda di dalam box kendaraan anda silahkan gunakan cmd /pizzaboy lalu setelah muncul menu pilihlah cek muatan pizza.
+ 4. Untuk mengecek muatan pizza anda di dalam box kendaraan anda silahkan gunakan cmd `/pizzaboy` lalu setelah muncul menu pilihlah cek muatan pizza.
 
 ![enter image description here](https://i.ibb.co/Wkf76Zj/c-Cc-uwhwb-CShb-D-I9-M72j3i-US-uhdp-Uh-Ia-Ppebz-J4-Ogqbk-QQl5s8-m-Agl-W37u-H11-BPBJIFb-SELh0-DAZ5at.png)
  
@@ -36,7 +36,7 @@ Silahkan kalian simak petunjuk dibawah ini bekerja sebagai seorang pengantar piz
 
 ![enter image description here](https://i.ibb.co/2nqDjs7/w-Wit3wsl-T4-D7hp-FRj0-DNy-GD7-h-ZLdd-gmie4m-Y7-WY7c-Wybcsz-ROmg4vn-Kfo-Und-L3-Idvy-Hs-Iw-Dmza-Yhx-O.png)
  
- 7. Setelah sampainya di lokasi silahkan kalian ambil stock pizzanya dengan menggunakan cmd /pizzaboy setelah muncul menu silahkan pilih restock pizza, pastikan kendaraan anda berdekatan dengan tempat mengambilan stock pizza.
+ 7. Setelah sampainya di lokasi silahkan kalian ambil stock pizzanya dengan menggunakan cmd `/pizzaboy` setelah muncul menu silahkan pilih restock pizza, pastikan kendaraan anda berdekatan dengan tempat mengambilan stock pizza.
 
 ![enter image description here](https://i.ibb.co/LnrjmFY/kag-Bl-PLMAm-A8y-NAJ8hfisr-X7-I0b-P2kp-L4r-Df-C3q-TDOCCSHbc0b-M1-O2n-S9-PLA5-Mks-D5-Kf6-Hlh-SJJJ8-m.png)
  

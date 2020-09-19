@@ -22,11 +22,11 @@ Silahkan kalian simak petunjuk dibawah ini bekerja sebagai seorang trashmaster :
 
 ![enter image description here](https://i.ibb.co/VpGZfnP/Au7-Gz-rcus-Xj-Mlsx-Fxmup5tu4u-Kq-Exh9-XFSW9h6-XEtgf-Zq3-Ekrnkcwkwzh-PLu1-AUl-Ce6-IOqi-I0-SDm-FY5-Fv.png)
  
- 3. Gunakan cmd /trashmaster untuk melakukan pekerjaan ini, sesampainya di tanda merah pada map silahkan kalian turun dari truck trashmaster kalian lalu pergilah ke depan pintu rumah lalu ketik /inforumah untuk mengambil sampah, lalu pilih ambil sampah pada menu yang tersedia.
+ 3. Gunakan cmd `/trashmaster` untuk melakukan pekerjaan ini, sesampainya di tanda merah pada map silahkan kalian turun dari truck trashmaster kalian lalu pergilah ke depan pintu rumah lalu ketik /inforumah untuk mengambil sampah, lalu pilih ambil sampah pada menu yang tersedia.
 
 ![enter image description here](https://i.ibb.co/PtLf2y5/G-u-R4qpj-C5ead-XMGrrx-YVCW3b5-pngsyi-J-gx9-MF7-N7-LCHyp7bjvsrk-B-jf7-Phu-WZp-Zarzz-Wd-A70-Spz-W0l-7.png)
  
- 4. Setelah mengambil sampah dari pintu rumah silahkan kalian pergi ke belakang truck trashmaster untuk mengangkut sampah ke dalam truck dengan menggunakan cmd /trashmaster
+ 4. Setelah mengambil sampah dari pintu rumah silahkan kalian pergi ke belakang truck trashmaster untuk mengangkut sampah ke dalam truck dengan menggunakan cmd `/trashmaster`
 
 ![enter image description here](https://i.ibb.co/JKDt7Z9/z-O7n-Q98-n-VDli-Cgh3-Yp-Cltabq-H4-Ece-WYGv-AUr557l8x0-Xogw-K2c-Lkvi-HXC9l-UQKU-Tc-JU7f-Gi0o-KRFY6-T.png)
  
@@ -38,7 +38,7 @@ Silahkan kalian simak petunjuk dibawah ini bekerja sebagai seorang trashmaster :
 
 ![enter image description here](https://i.ibb.co/R6ZRfqZ/51-A-EQD96-WGr5-CDFOa-Z4y8-X1u1-Yq-od-MFQGQ2sin-Z0-Ei-KIvpvp-A3c-DXhb14-U2-ASIw0gt4z4-Zxc38v-T77-PE1.png)
  
- 7. Untuk mengecek muatan truck anda berapa sampah yang sudah kalian angkut silahkan gunakan cmd /trashmaster didalam truck lalu kalian pilih cek muatan.
+ 7. Untuk mengecek muatan truck anda berapa sampah yang sudah kalian angkut silahkan gunakan cmd `/trashmaster` didalam truck lalu kalian pilih cek muatan.
 
 ![enter image description here](https://i.ibb.co/t2Q6S07/n-Qv-JTc0440ywd6-FC1-Vp-L2-iu-KBN1-F7-Cu-tds-Zkf-Rmta7-U5-BGru5f-ON8y-Na-Eekc-I0a-M7-PJUC7bc-DSJkp-X.png)
  
