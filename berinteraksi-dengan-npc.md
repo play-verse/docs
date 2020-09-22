@@ -85,16 +85,16 @@ Jika anda menjawab tidak seperti keempat hal diatas, maka resepsionis tidak akan
 Anda perlu mengetahui nama Penjual, berikut dibawah ini adalah nama-nama penjual yang ada di server kami :
 
 :::tip Daftar Nama NPC Pedagang
->  - Yuni = Penjual bibit tanaman  
->  - Yuli = Penjual Alat dan bahan Pancing
->  - Berta = Penjual Gadget
->  - Erik = Dealer
->  - Sakura = Marketplace 1
->  - Alexa = Marketplace 2
->  - Ryu = Marketplace 3
->  - Roxy = Marketplace 4
->  - Devi = Blacksmith
->  - Joe = Ahli Mekanik
+- Yuni = Penjual bibit tanaman  
+- Yuli = Penjual Alat dan bahan Pancing
+- Berta = Penjual Gadget
+- Erik = Dealer
+- Sakura = Marketplace 1
+- Alexa = Marketplace 2
+- Ryu = Marketplace 3
+- Roxy = Marketplace 4
+- Devi = Blacksmith
+- Joe = Ahli Mekanik
   
 :::
 - Berinteraksi dengan NPC Penjual bibit tanaman (Yuni)
