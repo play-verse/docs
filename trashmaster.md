@@ -1,6 +1,15 @@
 ---
 id: trashmaster
 title: Trashmaster
+custom_edit_url: https://github.com/play-verse/docs/edit/master/trashmaster.md
+description: Bekerja sebagai Pembersih Sampah pada server SA:MP Playverse Virtual Roleplay Indonesia
+keywords:
+  - samp
+  - samp indo
+  - samp roleplay
+  - gta
+  - san andreas multiplayer
+image: https://i.ibb.co/R6ZRfqZ/51-A-EQD96-WGr5-CDFOa-Z4y8-X1u1-Yq-od-MFQGQ2sin-Z0-Ei-KIvpvp-A3c-DXhb14-U2-ASIw0gt4z4-Zxc38v-T77-PE1.png
 ---
 
 ## Trashmaster

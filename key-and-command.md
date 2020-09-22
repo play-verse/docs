@@ -1,6 +1,15 @@
 ﻿---
 id: key-and-command
 title: Key's and Command's
+custom_edit_url: https://github.com/play-verse/docs/edit/master/key-and-command.md
+description: Special Key dan Command pada server SA:MP Playverse Virtual Roleplay Indonesia
+keywords:
+  - samp
+  - samp indo
+  - samp roleplay
+  - gta
+  - san andreas multiplayer
+image: https://i.ibb.co/3z5Qxrw/Untitled.png
 ---
 
 ## Key's and Command's

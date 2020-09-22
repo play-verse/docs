@@ -1,6 +1,15 @@
 ---
 id: pengenalan
 title: Pengenalan Roleplay & Virtual Roleplay
+custom_edit_url: https://github.com/play-verse/docs/edit/master/pengenalan.md
+description: Pengenalan SA:MP Playverse Virtual Roleplay Indonesia
+keywords:
+  - samp
+  - samp indo
+  - samp roleplay
+  - gta
+  - san andreas multiplayer
+image: https://i.ibb.co/3z5Qxrw/Untitled.png
 ---
 
 

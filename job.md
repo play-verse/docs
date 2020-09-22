@@ -1,6 +1,15 @@
 ﻿---
 id: job
 title: Pengenalan
+custom_edit_url: https://github.com/play-verse/docs/edit/master/job.md
+description: Pengenalan job pada server SA:MP Playverse Virtual Roleplay Indonesia
+keywords:
+  - samp
+  - samp indo
+  - samp roleplay
+  - gta
+  - san andreas multiplayer
+image: https://i.ibb.co/3z5Qxrw/Untitled.png
 ---
 
 ## Pengenalan job

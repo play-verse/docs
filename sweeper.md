@@ -1,6 +1,15 @@
 ---
 id: sweeper
 title: Sweeper
+custom_edit_url: https://github.com/play-verse/docs/edit/master/sweeper.md
+description: Bekerja sebagai Pembersih Jalan pada server SA:MP Playverse Virtual Roleplay Indonesia
+keywords:
+  - samp
+  - samp indo
+  - samp roleplay
+  - gta
+  - san andreas multiplayer
+image: https://i.ibb.co/NnsbCvj/Gbj4q-Kc8-BKjjrc-Qx-VTag55933-Pj-BZ78fva3-Mp-C0-KHTGTK7-ZW7r-LE-x-PM9-Am-X4ql-M0-Oh8-Ksz-Oyoa-BSFO2.png
 ---
 
 ## Sweeper

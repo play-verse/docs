@@ -1,6 +1,15 @@
 ---
 id: pizzadelivery
 title: Pizza Delivery
+custom_edit_url: https://github.com/play-verse/docs/edit/master/pizzadelivery.md
+description: Bekerja sebagai Pengantar Pizza pada server SA:MP Playverse Virtual Roleplay Indonesia
+keywords:
+  - samp
+  - samp indo
+  - samp roleplay
+  - gta
+  - san andreas multiplayer
+image: https://i.ibb.co/4tQzdFm/W6m-Ribhz-FAsc-MUEIbwnppj-Mu9-Rb-NMBc1r-NF2-JQ34-NLTIGhhtsek-X08b6g-I1jn4m-IW-6l8-Zk-MRHFWLfjd-HBqv.png
 ---
 
 ## Pizza Delivery
