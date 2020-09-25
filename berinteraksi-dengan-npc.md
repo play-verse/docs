@@ -163,7 +163,7 @@ Lalu untuk melakukan interaksi selanjutnya sesuai apa yang kalian inginkan katak
 
   
 
-# Berinteraksi dengan NPC Bank
+## Berinteraksi dengan NPC Bank
 
   
 
