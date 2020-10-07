@@ -125,14 +125,14 @@ Berikut ini adalah list-list item yang terdapat di server ini :
   
 ### **Mining and Forest Products**
  
- Tambang  1 :
+#### Tambang Big Hole
 	 
 |No|Nama item|Keterangan|Berat Per Item|Type
 |--|--|--|--|--
 |1|Batu Bata|Bahan tambang yang berguna.|1|Normal
 |2|Batu Bara|Bahan tambang yang berguna.|1|Normal
 
-Tambang 2 :
+#### Tambang High Cliffs
 
 |No|Nama item|Keterangan|Berat Per Item|Type
 |--|--|--|--|--
