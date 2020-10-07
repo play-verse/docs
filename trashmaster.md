@@ -12,14 +12,15 @@ keywords:
 image: https://i.ibb.co/R6ZRfqZ/51-A-EQD96-WGr5-CDFOa-Z4y8-X1u1-Yq-od-MFQGQ2sin-Z0-Ei-KIvpvp-A3c-DXhb14-U2-ASIw0gt4z4-Zxc38v-T77-PE1.png
 ---
 
-## Trashmaster
 Jika kalian sedang menjalankan pekerjaan ini berarti kalian bekerja sebagai pengangkut sampah. lokasi pekerjaan ini dekat kantor polisi, silahkan lihat gambar di bawah ini untuk lebih mengetahui lokasinya :
+
+## Lokasi
 
 ![lokasi tempat kerja trashmaster](https://i.ibb.co/cgS2xYB/Qi-Yb-Zq8-Cr-CIF8-Bn-S52-KZf4-HFAFVj-RDRe-Q9cn-OGLg-Pf-Viu2kn-Wpm-Qiy-BQf-U8hb6p-RGCJU1nu8-Rq-Haz-Ye.png)
 
-Tempatnya :
-
 ![penampakan tempat kerja trashmaster](https://i.ibb.co/Pr3YLZX/IEyz-Yj-GHq537-Mhh-P0-JMRot-CB3-UMzu-Oo-Ienktyg-Db-OTj8-UX9-XNG4-Hfpnl-Wr-Ydvi-MZINrst-W42w1p3-Iz-WH.png)
+
+## Cara bekerja
 
 Silahkan kalian simak petunjuk dibawah ini bekerja sebagai seorang trashmaster :
 

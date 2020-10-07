@@ -12,14 +12,15 @@ keywords:
 image: https://i.ibb.co/NnsbCvj/Gbj4q-Kc8-BKjjrc-Qx-VTag55933-Pj-BZ78fva3-Mp-C0-KHTGTK7-ZW7r-LE-x-PM9-Am-X4ql-M0-Oh8-Ksz-Oyoa-BSFO2.png
 ---
 
-## Sweeper
-
  Jika kalian sedang menjalankan pekerjaan ini berarti kalian bekerja sebagai seorang pembersih jalanan. lokasi pekerjaan ini berada di sekitar vinewood :
+
+## Lokasi
+
 ![lokasi tempat kerja sweeper](https://i.ibb.co/QKjpzv1/ljs-NPga-Kx8tvs-Oqi4-Oko-NNUzg-Wc-Rm89-LVXud-Cwx-MVBb4ah6a-Tr-Jx-U99tif2j-L1-PXb-Yw-ZVs22-Or-BXhua-C.png)
 
-Tempatnya :
-
 ![tempat kerja sweeper](https://i.ibb.co/WHDnmrR/ar7-Z4d-HCET9-We-EJ04a4g-RNDTSFb7c7-Lhl-K-z-O5d-EFa-Vm-F1-YL27gz-7ov-OXBFf-A-A-x-BHve9j-UON4p-Rdf-VE.png)
+
+## Cara bekerja
 
  1. Pilihlah salah satu kendaraan sweeper yang akan kalian gunakan.
 

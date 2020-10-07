@@ -12,14 +12,15 @@ keywords:
 image: https://i.ibb.co/4tQzdFm/W6m-Ribhz-FAsc-MUEIbwnppj-Mu9-Rb-NMBc1r-NF2-JQ34-NLTIGhhtsek-X08b6g-I1jn4m-IW-6l8-Zk-MRHFWLfjd-HBqv.png
 ---
 
-## Pizza Delivery
-
 Jika kalian sedang menjalankan pekerjaan ini berarti kalian bekerja sebagai seorang pengantar pizza. lokasi pekerjaan ini berada di sekitar idlewood :
+
+## Lokasi
+
 ![lokasi tempat kerja pizza delivery ](https://i.ibb.co/zhbZW0J/qyvuyh6or-Grr-Qb-Zx-Pj-YZ8-Ci-ASOh-Js-AQVEa-Ut-I7-UEv5w-Noq-VM1-Dyr-GDW91-Qmc-GBv-Ji1du-NBrzf-Hx-Q-G.png)
 
-Tempatnya :
-
 ![tempat kerja pizza delivery](https://i.ibb.co/hFXstHy/M5-T4us-SHa9k-LD-Kf-Du-MB2-Lw-TZIa-Ko-B9-QVu-A-Ld-KO8-Bnod-q-AFqg-GKDht9-Fl-TUc-Scs-T1-C0t-Iuib546f.png)
+
+## Cara bekerja
 
 Silahkan kalian simak petunjuk dibawah ini bekerja sebagai seorang pengantar pizza :
 
