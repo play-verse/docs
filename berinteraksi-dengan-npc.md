@@ -97,7 +97,8 @@ Anda perlu mengetahui nama Penjual, berikut dibawah ini adalah nama-nama penjual
 - Joe = Ahli Mekanik
   
 :::
-- Berinteraksi dengan NPC Penjual bibit tanaman (Yuni)
+
+**Berinteraksi dengan NPC Penjual bibit tanaman (Yuni)**
 
 - Untuk memulai percakapan silahkan sapa `"Halo yuni"`
 
@@ -105,7 +106,7 @@ Anda perlu mengetahui nama Penjual, berikut dibawah ini adalah nama-nama penjual
 
   
 
-- Berinteraksi dengan NPC Penjual Alat dan bahan Pancing (Yuli)
+**Berinteraksi dengan NPC Penjual Alat dan bahan Pancing (Yuli)**
 
 - Untuk memulai percakapan silahkan sapa `"Halo yuli"`
 
@@ -113,7 +114,7 @@ Anda perlu mengetahui nama Penjual, berikut dibawah ini adalah nama-nama penjual
 
   
 
-- Berinteraksi dengan NPC Penjual Gadget (Berta)
+**Berinteraksi dengan NPC Penjual Gadget (Berta)**
 
 - Untuk memuai percakapan silahkan sapa `"Halo berta"`
 
@@ -121,7 +122,7 @@ Anda perlu mengetahui nama Penjual, berikut dibawah ini adalah nama-nama penjual
 
   
 
-- Berinteraksi dengan NPC Dealer (Erik)
+**Berinteraksi dengan NPC Dealer (Erik)**
 
 - Untuk memulai percakapan silahkan sapa `"Halo erik"`
 
@@ -129,7 +130,7 @@ Anda perlu mengetahui nama Penjual, berikut dibawah ini adalah nama-nama penjual
 
   
 
-- Berinteraksi dengan NPC Marketplace (Sakura, Alexa, Ryu, dan Roxy)
+**Berinteraksi dengan NPC Marketplace (Sakura, Alexa, Ryu, dan Roxy)**
 
 Di marketplace ada 4 NPC yang siap melayani anda oleh karena itu silahkan kalian tanya terlebih dahulu siapa nama NPC yang sedang kalian hadapi `"Halo siapa nama kamu ?"`
 
@@ -143,7 +144,7 @@ Lalu untuk melakukan interaksi selanjutnya sesuai apa yang kalian inginkan katak
 
   
 
-- Berinteraksi dengan Blacksmith (Devi)
+**Berinteraksi dengan Blacksmith (Devi)**
 
 - Untuk memulai percakapan silahkan kalian sapa `"Halo devi"`
 
@@ -153,7 +154,7 @@ Lalu untuk melakukan interaksi selanjutnya sesuai apa yang kalian inginkan katak
 
   
 
-- Berinteraksi dengan Ahli Mekanik (Joe)
+**Berinteraksi dengan Ahli Mekanik (Joe)**
 
 - Untuk memulai percakapaan silahkan kalian sapa "Halo joe"
 
