@@ -53,7 +53,7 @@ Nomor 4: Tombol "play" berguna untuk memulai game setelah memilih server.
 
 ## Connect dan Bermain di Playverse
 
-- Untuk bermain di server kami silahkan masukkan IP Address : [*server.playverse.org:7777*](samp://server.playverse.org:7777) atau masukan IP **103.18.76.199:7777**
+- Untuk bermain di server kami silahkan masukkan IP Address : [*server.playverse.org:7777*](samp://server.playverse.org:7777) atau menggunakan IP [*103.18.76.199:7777*](samp://103.18.76.199:7777)
 
 
 > Jika kalian ingin bermain di server kami, kalian diharus daftar terlebih dahulu baru bisa masuk ke server kami.
