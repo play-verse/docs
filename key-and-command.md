@@ -32,43 +32,48 @@ Dibawah ini adalah beberapa cmd-cmd di server kami :
 
 | Commands | Fungsi |
 |--|--|
-| */periksainventory* | Untuk memeriksa inventory player lain |
-| */panggilmedis* | Untuk memanggil tim medis ketika anda sedang koma |
-| */report*  | Report di gunakan untuk melaporkan pemain lain yang melanggar rules server atau kedapatakan menggunakan program ilegal |
-| */ask*   | Untuk bertanya kepada admin |
-| */bc*  | Untuk melakukan broadcast / iklan *(harus memiliki ephone yang mensupport broadcast)*|
-| */settings*   | Untuk mengaktifkan menu setting tampilan pada layar anda |
-| */clearchat*   | Untuk menghapus history chat pada menu chat |
-| */inventory* atau */inv*  | Untuk melihat inventory, rumah, kendaraan, furniture, dan skin. |
-| */infosaya* | Untuk melihat info akun |
-| */skill*  | Untuk mengakses menu skill kalian |
-| */pm*  | Untuk mengirim pesan private massage |
-| */r*   | Untuk membalas pesan private massage |
-| */ephone*   | Untuk mengakses ephone kalian |
-| */bunuhdiri*  | Ketika anda mengalami sekarat lalu tidak ada medis yang sedang online cmd ini baru bisa kalian gunakan |
-| */beriuang* | Memberikan uang kepada player lain |
-| */lepashelm*  | Untuk melepas helm ketika anda sedang menggunakan helm |
-| */lepastopeng*  | Untuk melepas topeng ketika anda sedang menggunakan topeng |
-| */keluar penjara* | Untuk keluar dari dalam penjara ketika masa hukuman kalian sudah selesai |
+| */tutorial* | Panduan bermain secara singkat |
+| */stats* | Melihat informasi akun |
+| */inventory (/inv)* | Melihat isi tas |
+| */settings* | Pengaturan tampilan dan akun |
+| */clearchat* | Menghapus histori chat |
+| */ask* | Tanya kepada admin |
+| */report* | Melaporkan pemain |
+| */givemoney* | Memberi uang kepada pemain lain |
+| */pm* | Chat kepada pemain lain |
+| */r* | Membalas chat dari pemain lain |
+| */cancelrentvehicle* | Membatalkan sewa kendaraan |
+| */removehelmet* | Melepas helm |
+| */removemask* | Melepas topeng |
+| */anim* | Daftar perintah animasi |
+| */stand* | Animasi berdiri |
+| */sit* | Animasi duduk |
+| */checkinventory* | Memeriksa inventory pemain lain |
+| */ephone* | Akses ponsel pribadi |
+| */call* | Memanggil pemain atau organisasi |
+| */bc* | Iklan teks |
+| */exit* | Aksi untuk keluar bangunan |
+| */skill* | Daftar kemampuan |
+| */suicide* | Akhiri hidup |
 
 
 **House :**
 
 |Commands| Fungsi |
 |--|--|
-| */rumah* | Untuk mengakses menu rumah |
-| */inforumah* | Untuk mengakses menu info rumah|
+| */house* | Untuk mengakses menu rumah |
+| */houseinfo* | Untuk mengakses menu info rumah|
 
 **Job :**
 | Commands | Fungsi |
 |--|--|
-| */lumberjack*|  |
-| */trashmaster* |  |
-| */pizzaboy*|  |
-| */masak*|  |
-| */gali* |  |
-| */farm* |  |
-| */fishing* | |
+| */cook* | Melakukan aksi masak |
+| */lumberjack* | Menu perintah pemotong kayu |
+| */trashmaster* | Menu perintah pengangkut sampah |
+| */pizzaboy* | Menu perintah pengantar pizza |
+| */dig* | Melakukan aksi gali |
+| */farm* | Menu perintah menanam |
+| */fishing* | Menu perintah memancing |
 
  **Kendaraan :**
  
@@ -80,22 +85,22 @@ Dibawah ini adalah beberapa cmd-cmd di server kami :
 
 |Commands| Fungsi |
 |--|--|
-| */tampillokasipasien* |  |
+| */skill* | Daftar kemampuan |
+| */showpatientlocation* | Menampilkan lokasi pasien |
 
 **Police :**
 
 | Commands | Fungsi |
 |--|--|
-| */tutup pintupenjara* | Untuk membuka pintu penjara |
-| */buka pintupenjara* | Untuk membuka pintu penjara |
-| */penjarakan* | Untuk memvonis pelanggar yang kedapatkan sedang melaukan tindakan kriminal |
-| */hapusmasapenjara* |  |
-
-
-
-
- 
-
-
-   
-
+| */skill* | Daftar kemampuan |
+| */showvictimlocation* | Menampilkan lokasi peminta |
+| */open* | Aksi untuk membuka sesuatu |
+| */close* | Aksi untuk menutup sesuatu |
+| */jail* | Memenjarakan pemain |
+| */removejail* | Menghapus masa tahanan |
+| */destroy* | Aksi untuk menghapus sesuatu |
+| */create* | Aksi untuk membuat sesuatu |
+| */adjust* | Aksi untuk mengubah sesuatu |
+| */cuff* | Memborgol pemain |
+| */uncuff* | Membuka borgol pemain |
+| */checksuspect* | Mengecek masa tahanan |
