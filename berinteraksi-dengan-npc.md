@@ -190,11 +190,12 @@ Di bank kalian akan menemukan 2 NPC kami yang bernama Luna dan Yuna. merekalah y
 
 ## Berinteraksi dengan NPC Pengepul
 
-> Daftar Nama NPC Pengepul
-> - Max = Penerima hasil Tambang 
-> - Alex = Penerima hasil Kayu
-> - Ipul = Penerima hasil Ikan
-> - Larry = Penerima hasil Buah / Perkebunan
+:::tip Daftar Nama NPC Pengepul
+- Max = Penerima hasil Tambang 
+- Alex = Penerima hasil Kayu
+- Ipul = Penerima hasil Ikan
+- Larry = Penerima hasil Buah / Perkebunan
+:::
 
 **Berinteraksi dengan Pengepul Tambang**
 - Untuk memulai percakapan silahkan kalian sapa `"Halo Max"`
