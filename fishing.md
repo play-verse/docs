@@ -36,6 +36,7 @@ Kamu bisa membeli joran pacningan untuk menangkap ikan atau menggunakan tombak u
 - Lalu setelah kalian sudah melengkapi diri kalian dengan peralatan pancing silahkan pergi ke laut untuk menangkap ikan
 
 - Jangan lupa untuk meng-use tombak ikan dengan cara mengetik `/inv` > inventory > Tombak Ikan > Pakai item
+
 ![enter image description here](https://i.ibb.co/37cGJbX/sa-mp-136.png)
 
 - Setelah di terpakai tombak silahkan kalian berenang ke laut untuk menangkap ikannya dengan cara menekan tombol `Y`

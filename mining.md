@@ -72,6 +72,8 @@ Berikut lokasi tambang yang dapat kamu temukan.
 
 11. Setelah sampainya di lokasi kamu akan bertemu dengan max silahkan kalian sapa max dengan mengetikan `Halo max` lalu setelah max merespon silahkan kamu ketikan `Saya ingin menjual item` untuk menjual hasil tambang kalian, Jika masih bingung untuk berinteraksi dengan NPC di server ini silahkan baca wikinya [klik disini](https://wiki.playverse.org/docs/berinteraksi-dengan-npc)
 
-> Catatan ! 
-> Jika ingin memuat hasil tambang menggunakan kendaraan pribadi gunakanlah jenis kendaraan bertype truck atau kendaraan yang memiliki bag untuk menampung hasil tambang kalian seperti mobil : *bobocat, dll.*
-> Jika kedapatan kalian menggunakan mobil sport (yang tidak seharusnya) untuk mengangkut hasil tambang, maka akan dikenakan hukuman.
+:::danger Peringatan
+Jika ingin memuat hasil tambang menggunakan kendaraan pribadi gunakanlah jenis kendaraan bertype truck atau kendaraan yang memiliki bag untuk menampung hasil tambang kalian seperti mobil : *bobocat, dll.*
+
+Jika kedapatan kalian menggunakan mobil sport (yang tidak seharusnya) untuk mengangkut hasil tambang, maka akan dikenakan hukuman.
+:::
