@@ -187,3 +187,31 @@ Di bank kalian akan menemukan 2 NPC kami yang bernama Luna dan Yuna. merekalah y
 - Ketika kalian ingin membayar biaya reprasi kendaraan kalian silahkan katakan `"saya ingin membayar reparasi kendaraan"`
 
 - Jika kalian memiliki tagihan dan ingin membayarnya silahkan katakan `"saya ingin membayar tagihan"`
+
+## Berinteraksi dengan NPC Pengepul
+
+> Daftar Nama NPC Pengepul
+> - Max = Penerima hasil Tambang 
+> - Alex = Penerima hasil Kayu
+> - Ipul = Penerima hasil Ikan
+> - Larry = Penerima hasil Buah / Perkebunan
+
+**Berinteraksi dengan Pengepul Tambang**
+- Untuk memulai percakapan silahkan kalian sapa `"Halo Max"`
+
+- Lalu untuk melanjutkan intreaksi selanjutnya silahkan katakan `"Saya ingin menjual item"` untuk menjual hasil tambang
+
+**Berinteraksi dengan Pengepul Kayu**
+- Untuk memulai percakapan silahkan kalian sapa `"Halo Alex"`
+
+- Lalu untuk melanjutkan intreaksi selanjutnya silahkan katakan `"Saya ingin menjual item"` untuk menjual hasil kayu
+
+**Berinteraksi dengan Pengepul Ikan**
+- Untuk memulai percakapan silahkan kalian sapa `"Halo Ipul"`
+
+- Lalu untuk melanjutkan intreaksi selanjutnya silahkan katakan `"Saya ingin menjual ikan"` untuk menjual hasil nelayan
+
+**Berinteraksi dengan Pengepul Buah**
+- Untuk memulai percakapan silahkan kalian sapa `"Halo Larry"`
+
+- Lalu untuk melanjutkan intreaksi selanjutnya silahkan katakan `"Saya ingin menjual item"` untuk menjual hasil perkebunan / buah.
