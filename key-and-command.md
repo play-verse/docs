@@ -45,7 +45,6 @@ Dibawah ini adalah beberapa cmd-cmd di server kami :
 | */cancelrentvehicle* | Membatalkan sewa kendaraan |
 | */removehelmet* | Melepas helm |
 | */removemask* | Melepas topeng |
-| */anim* | Daftar perintah animasi |
 | */stand* | Animasi berdiri |
 | */sit* | Animasi duduk |
 | */checkinventory* | Memeriksa inventory pemain lain |
@@ -65,7 +64,7 @@ Dibawah ini adalah beberapa cmd-cmd di server kami :
 | */houseinfo* | Untuk mengakses menu info rumah|
 
 **Job :**
-| Commands | Fungsi |
+|Commands| Fungsi |
 |--|--|
 | */cook* | Melakukan aksi masak |
 | */lumberjack* | Menu perintah pemotong kayu |
