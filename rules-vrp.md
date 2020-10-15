@@ -22,6 +22,8 @@ Berikut adalah rules yang ada di Playverse VRP:
 6. Dilarang memanfaatkan bug yang ada, segera laporkan bug jika menemukannya.
 7. Harus menaati peraturan roleplay yang berlaku.
 8. Dilarang melakukan penipuan, pembullyan kepada sesama player ataupun SARA.
+9. Usahakan ketika bermain di server kami selalu membahas segala sesuatu dengan IC.
+10. Diperbolehkan membahas OOC ketika kalian sedang bermain di server kami, Usahakan seminimal mungkin !
 
 :::caution Note
 Perubahan atau Revisi rules sewaktu-waktu bisa berubah kapan saja.
