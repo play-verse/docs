@@ -12,11 +12,9 @@ keywords:
 image: https://i.ibb.co/3z5Qxrw/Untitled.png
 ---
 
-## Key's and Command's
-
 Hallo semua berikut adalah key dan command yang berlaku di server kami :
 
-**Keys :**
+## Keys
 Dibawah ini adalah beberapa fungsi keygen di server kami :
 
 | KEY | FUNGSI  |
@@ -25,10 +23,10 @@ Dibawah ini adalah beberapa fungsi keygen di server kami :
 | N | Untuk membaca guide di dalam server |
 | Y | Untuk mengakses ATM pada mesin ATM |
 
-**Commands :**
+## Commands
 Dibawah ini adalah beberapa cmd-cmd di server kami :
 
-**General :**
+### General
 
 | Commands | Fungsi |
 |--|--|
@@ -56,14 +54,14 @@ Dibawah ini adalah beberapa cmd-cmd di server kami :
 | */suicide* | Akhiri hidup |
 
 
-**House :**
+### House
 
 |Commands| Fungsi |
 |--|--|
 | */house* | Untuk mengakses menu rumah |
 | */houseinfo* | Untuk mengakses menu info rumah|
 
-**Job :**
+### Job
 
 |Commands| Fungsi |
 |--|--|
@@ -75,7 +73,7 @@ Dibawah ini adalah beberapa cmd-cmd di server kami :
 | */farm* | Menu perintah menanam |
 | */fishing* | Menu perintah memancing |
 
- **Kendaraan :**
+### Kendaraan
  
 |Commands| Fungsi |
 |--|--|
@@ -86,14 +84,14 @@ Dibawah ini adalah beberapa cmd-cmd di server kami :
 | */close trunk* | Untuk menutup bagasi kendaraan anda |
 
  
-**Medis :**
+### Medis
 
 |Commands| Fungsi |
 |--|--|
 | */skill* | Daftar kemampuan |
 | */showpatientlocation* | Menampilkan lokasi pasien |
 
-**Police :**
+### Police
 
 | Commands | Fungsi |
 |--|--|
