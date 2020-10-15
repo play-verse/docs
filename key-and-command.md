@@ -64,6 +64,7 @@ Dibawah ini adalah beberapa cmd-cmd di server kami :
 | */houseinfo* | Untuk mengakses menu info rumah|
 
 **Job :**
+
 |Commands| Fungsi |
 |--|--|
 | */cook* | Melakukan aksi masak |
