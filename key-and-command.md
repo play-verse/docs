@@ -81,6 +81,9 @@ Dibawah ini adalah beberapa cmd-cmd di server kami :
 | */vehicle* atau */v* | Untuk mengakses menu pada kendaraan pribadi kalian seperti membuka bagasi/membuka kap depan, dan mengetahui info tentang kendaraan tersebut |
 | */lock* | Untuk mengunci kendaraan anda |
 | */unlock* | Untuk membuka kunci kendaraan anda |
+| */open trunk* | Untuk membuka bagasi kendaraan anda |
+| */close trunk* | Untuk menutup bagasi kendaraan anda |
+
  
 **Medis :**
 
