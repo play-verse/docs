@@ -15,6 +15,10 @@ image: https://i.ibb.co/yQKZrX9/sa-mp-140.png
 Bingung cara jadi nelayan di playverse? 
 Silahkan simak cara menjadi nelayan.
 
+:::caution Note
+Jika cuaca ujan rate mendapatkan ikan menjadi 2x lipat
+:::
+
 ## Lokasi
 
 Sebelum kalian menjadi nelayan berikut adalah lokasi tempat penjualan alat-alat pancing yang berada di pinggir jalan verona beach :
