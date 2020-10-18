@@ -71,7 +71,10 @@ Beberapa hal yang dapat diurus disini melalui resepsionis. Pastikan anda mengawa
  3. Katakan `"saya ingin buat nomor hp"` untuk membuat nomor hp baru jika anda belum punya.
 
  4. Katakan `"saya ingin perpanjang masa aktif nomor hp"` untuk memperpanjang masa aktif nomor yang ada.
-
+ 
+ 5. Katakan `"saya ingin mengurus jamsos"` untuk membuat jaminan sosial
+ 
+ 6. Katakan `"saya ingin memperpanjang jamsos"` untuk memperpanjang jaminan sosial
   
 
 Jika anda menjawab tidak seperti keempat hal diatas, maka resepsionis tidak akan mengerti maksud anda dan akan memberhentikan percakapan. Jika masih tidak mengerti dengan hal diatas silahkan tanyakan di forum. Terimakasih telah membaca.
