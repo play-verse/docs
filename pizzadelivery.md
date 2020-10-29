@@ -32,7 +32,7 @@ Silahkan kalian simak petunjuk dibawah ini bekerja sebagai seorang pengantar piz
 
 ![enter image description here](https://i.ibb.co/NsKWFK2/2co1aqto-E-Z05-Aqm-Eo-Gsgf03p9v-Ugfhi76-TW0-Oz7-Qk-ptx-Ggo-FBFq-I-z2-FJZRovm-ITl-c3i-MHWz7-RNYa-KHVP.png)
  
- 3. Pergi lah ke marka merah atau ke depan rumah yang sudah di beri tanda merah ketika sampai di depan rumah silahkan gunakan cmd /inforumah ketika muncul menu pilihlah taruh pizza.
+ 3. Pergi lah ke marka merah atau ke depan rumah yang sudah di beri tanda merah ketika sampai di depan rumah silahkan gunakan cmd /houseinfo ketika muncul menu pilihlah taruh pizza.
 
 ![enter image description here](https://i.ibb.co/fx73G2p/s9u-NGI2-Zpe-Tfk-REKCNOy26c-Pht7t1mq7-FBpfu-Sogdj-EHg-Tc-Hlx4uu-Ab-U9kb-OR5-V3ju0d-Uq49j4td-EEY3z0la.png)
  
