@@ -98,6 +98,7 @@ Anda perlu mengetahui nama Penjual, berikut dibawah ini adalah nama-nama penjual
 - Roxy = Marketplace 4
 - Devi = Blacksmith
 - Joe = Ahli Mekanik
+- Puyeng = Penjual bibit kangkung ijo
   
 :::
 
@@ -164,6 +165,13 @@ Lalu untuk melakukan interaksi selanjutnya sesuai apa yang kalian inginkan katak
 - Lalu untuk melanjutkan intreaksi selanjutnya silahkan katakan `"saya ingin mengaktifkan skill mekanik"` untuk mengaktifkan skill mekanik kalian.
 
 - Jika ingin membeli peralatan mekanik silahkan katakan `"saya ingin membeli item"`
+
+
+**Berinteraksi dengan Penjual bibit kangkung ijo (Puyeng)**
+
+- Untuk memulai percakapaan silahkan kalian sapa "Halo puyeng"
+
+- Lalu untuk melanjutkan intreaksi selanjutnya silahkan katakan `"saya ingin membeli bibit ilegal"` untuk membeli bibit kangkung ijo.
 
   
 
