@@ -14,21 +14,26 @@ image: https://i.ibb.co/RgTHBQs/Untitled.png
 
 ## Cara bermain SA:MP
 
-  
-
 Hallo playvers kalian baru bermain [*SA:MP*](https://www.sa-mp.com/) ? Bingung cara bermain SA:MP ? Sebelum bermain SA:MP pastikan kalian tahu cara menginstallnya terlebih dahulu. Kami akan memberi tahu cara menginstall SA:MP di PC/Laptop kalian. Silahkan perhatikan langkah-langkah di bawah ini dengan baik dan benar agar tidak terjadi kesalahan saat sedang meninstall.
+
+## Download SA:MP + Voice
+Silahkan download dibawah ini :
+
+ - SA-MP 0.3.7 Client [disini](https://github.com/KrustyKoyle/files.sa-mp.com-Archive/raw/master/sa-mp-0.3.7-install.exe)
+ - Voice [disini](https://github.com/CyberMor/sampvoice/releases/download/v3.1/sv_client_037_r1_english.zip)
+
+> Jika kalian sudah menginstall SAMP versi lain silahkan di uninstall lalu install versi 0.3.7 melalui link diatas.
 
 
 ## Install SA:MP  
 
 - Pertama pastikan kalian sudah memiliki atau sudah terinstall game GTA San Andreas di PC/Laptop kalian masing-masing. Jika belum mempunyai game GTA SA silahkan kalian beli gamenya terlebih dahulu di provider terpecaya atau download versi crack/rip.
 
-**silahkan cari versi crack di google*
+	**silahkan cari versi crack di google*
 
-- Jika sudah terinstall di PC/Laptop kalian silahkan download [SA:MP](https://www.sa-mp.com/download.php) 
-![enter image description here](https://i.ibb.co/TmsKpyB/Untitled.png) pilih salah satu yang sudah di tandai.
+- Jika sudah memiliki game GTA SAnya silahkan kalian install SAMP versi 0.3.7 melalui link di atas
 
-- Setelah selesai mendownload silahkan install seperti biasa, setelah muncul ini :
+- Setelah selesai mendownload SAMP 0.3.7 silahkan install seperti biasa, setelah muncul ini :
 
 ![enter image description here](https://steamuserimages-a.akamaihd.net/ugc/958603887339474389/EB6C84B8590DA5FA9263F7EBDF5AAEF7D4C7FC10/)
 
@@ -50,6 +55,13 @@ Nomor 3: Tombol untuk menambahkan server baru di list Favorites.
 
 Nomor 4: Tombol "play" berguna untuk memulai game setelah memilih server.
 
+## Install Voice
+
+ - Jika kalian sudah menginstall SAMP 0.3.7 silahkan kalian install voice samp melalui link diatas.
+ - Setelah berhasil di download silahkan kalian extract file tersebut, lalu copy semua yang ada didalam folder ke file GTA SA kalian, Misal : *D:/GAMES/GTA SA*
+- Jika muncul seperti gambar ini :
+![ ](https://i.ibb.co/FHd64Tq/voice.png)
+silahkan kalian klik *replace the files in the destination*
 
 ## Connect dan Bermain di Playverse
 
