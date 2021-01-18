@@ -19,8 +19,8 @@ Hallo playvers kalian baru bermain [*SA:MP*](https://www.sa-mp.com/) ? Bingung c
 ## Download SA:MP + Voice
 Silahkan download dibawah ini :
 
- - SA-MP 0.3.7 Client [disini](https://github.com/KrustyKoyle/files.sa-mp.com-Archive/raw/master/sa-mp-0.3.7-install.exe)
- - Voice [disini](https://github.com/CyberMor/sampvoice/releases/download/v3.1/sv_client_037_r1_english.zip)
+ - SA-MP 0.3.7 Client [disini](https://www58.zippyshare.com/v/c7sBCzwe/file.html)
+ - Voice [disini](https://www58.zippyshare.com/v/Pmup9coN/file.html)
 
 > Jika kalian sudah menginstall SAMP versi lain silahkan di uninstall lalu install versi 0.3.7 melalui link diatas.
 
@@ -61,7 +61,7 @@ Nomor 4: Tombol "play" berguna untuk memulai game setelah memilih server.
  - Setelah berhasil di download silahkan kalian extract file tersebut, lalu copy semua yang ada didalam folder ke file GTA SA kalian, Misal : *D:/GAMES/GTA SA*
 - Jika muncul seperti gambar ini :
 ![ ](https://i.ibb.co/FHd64Tq/voice.png)
-silahkan kalian klik *replace the files in the destination*
+*silahkan kalian klik replace the files in the destination*
 
 ## Connect dan Bermain di Playverse
 
@@ -72,3 +72,5 @@ silahkan kalian klik *replace the files in the destination*
 
 
 Untuk membaca panduan cara register di server kami silahkan [klik disini](https://wiki.playverse.org/docs/cara-daftar-akun)
+
+
