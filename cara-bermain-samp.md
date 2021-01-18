@@ -59,8 +59,10 @@ Nomor 4: Tombol "play" berguna untuk memulai game setelah memilih server.
 
  - Jika kalian sudah menginstall SAMP 0.3.7 silahkan kalian install voice samp melalui link diatas.
  - Setelah berhasil di download silahkan kalian extract file tersebut, lalu copy semua yang ada didalam folder ke file GTA SA kalian, Misal : *D:/GAMES/GTA SA*
-- Jika muncul seperti gambar ini :
+ - Jika muncul seperti gambar ini :
+
 ![ ](https://i.ibb.co/FHd64Tq/voice.png)
+
 *silahkan kalian klik replace the files in the destination*
 
 ## Connect dan Bermain di Playverse
