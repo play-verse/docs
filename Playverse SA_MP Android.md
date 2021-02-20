@@ -25,5 +25,10 @@ Untuk Versi FULL silahkan klik dibawah ini: [klik disini](https://drive.google.c
 6. Lalu install APK nya 
 7. Setelah file apk playeverse ter instal, taruh obb nya di *android/obb*
 8. Lalu cache dari playverse taruh di *android/data*
-9. Selamat bermain.
+9. Sebelum bermain silahkan install *text editor* silahkan cari di play store
+10. Setelah menginstall text editor silahkan kamu pergi ke *android/data/com.rockstargames.gtasa/files/SAMP/settings.ini*
+11. Kemudian *settings.ini* kamu edit dengan menggunakan text editor yang kalian install di playstore
+12. Lalu ubah #name = YourNickName bagian *YourNickName* menjadi nama username kalian, *contoh : #name = Mat_Kosim*
+13. Lalu silahkan kalian buka apk playversenya.
+14. Selamat bermain.
 
