@@ -12,7 +12,14 @@ keywords:
 image: https://i.ibb.co/RgTHBQs/Untitled.png
 ---
 
-## Cara bermain di Android :
+## Cara bermain di Android
+
+:::danger Important Note untuk *Android User Playverse*
+Pada **Playverse**, hanya anda dapat bermain pada Playverse dengan APK yang diberikan langsung dari **Playverse**. Jika anda menggunakan APK universal, maka akan mengakibatkan *terkick secara otomatis* pada saat login ke **Playverse**.
+:::
+
+Berikut cara penginstallannya.
+Versi APK yang digunakan kali ini adalah **v0.6b** yang mungkin saja akan ada updatean dan perubahan pada versi kedepannya.
 
 ***Playverse Android v0.6b***
 
