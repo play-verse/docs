@@ -22,6 +22,7 @@ Dibawah ini adalah beberapa fungsi keygen di server kami :
 | 2 | Menghidupkan / mematikan mesin kendaraan |
 | N | Untuk membaca guide di dalam server |
 | Y | Untuk mengakses ATM pada mesin ATM |
+| B | Untuk menggunakan voice chat |
 
 ## Commands
 Dibawah ini adalah beberapa cmd-cmd di server kami :
@@ -46,13 +47,14 @@ Dibawah ini adalah beberapa cmd-cmd di server kami :
 | */stand* | Animasi berdiri |
 | */sit* | Animasi duduk |
 | */checkinventory* | Memeriksa inventory pemain lain |
+| */checkplat* | Memeriksa plat nomor kendaraan |
 | */ephone* | Akses ponsel pribadi |
 | */call* | Memanggil pemain atau organisasi |
 | */bc* | Iklan teks |
 | */exit* | Aksi untuk keluar bangunan |
 | */skill* | Daftar kemampuan |
 | */suicide* | Akhiri hidup |
-
+| */radio* | Mengakses channel radio |
 
 ### House
 
@@ -83,7 +85,7 @@ Dibawah ini adalah beberapa cmd-cmd di server kami :
 | */open trunk* | Untuk membuka bagasi kendaraan anda |
 | */close trunk* | Untuk menutup bagasi kendaraan anda |
 
- 
+
 ### Medis
 
 |Commands| Fungsi |
