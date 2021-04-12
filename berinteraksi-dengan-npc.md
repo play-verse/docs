@@ -219,3 +219,15 @@ Di bank kalian akan menemukan 2 NPC kami yang bernama Luna dan Yuna. merekalah y
 - Untuk memulai percakapan silahkan kalian sapa `"Halo Larry"`
 
 - Lalu untuk melanjutkan intreaksi selanjutnya silahkan katakan `"Saya ingin menjual item"` untuk menjual hasil perkebunan / buah.
+
+## Berinteraksi dengan NPC Polisi
+
+Di kantor polisi kalian akan menemukan 1 NPC kami yang bernama Marcus, dia hanya melayani bagian internal kepolisian dalam menangani keperluan perlengkapan senjata :
+
+- Untuk memulai percakapan silahkan tanyakan terlebih dahulu nama NPC yang sedang kalian hadapi dengan mengatakan `"Halo nama kamu siapa ?"`
+
+- Setelah mereka memperkenalkan dirinya silahkan sapa mereka dengan mengatakan `"Halo marcus"`
+
+- Lalu untuk melanjutkan interaksi kalian dengan NPC yang ada dibank silahkan katakan `"saya ingin membeli senjata"` untuk membeli senjata.
+
+- Untuk membeli amunisi senjata silahkan katakan `"saya ingin membeli amunisi"`
