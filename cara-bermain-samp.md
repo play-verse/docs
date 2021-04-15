@@ -12,8 +12,6 @@ keywords:
 image: https://i.ibb.co/RgTHBQs/Untitled.png
 ---
 
-## Cara bermain SA:MP
-
 Hallo playvers kalian baru bermain [*SA:MP*](https://www.sa-mp.com/) ? Bingung cara bermain SA:MP ? Sebelum bermain SA:MP pastikan kalian tahu cara menginstallnya terlebih dahulu. Kami akan memberi tahu cara menginstall SA:MP di PC/Laptop kalian. Silahkan perhatikan langkah-langkah di bawah ini dengan baik dan benar agar tidak terjadi kesalahan saat sedang meninstall.
 
 ## Download SA:MP + Voice
