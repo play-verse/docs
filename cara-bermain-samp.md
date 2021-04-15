@@ -20,7 +20,8 @@ Silahkan download dibawah ini :
  - SA-MP 0.3.7 Client [disini](https://drive.google.com/file/d/1Q-BypJuFQ70M_JdZeH6EEGzfNLxfI7dU/view?usp=sharing)
  - Voice [disini](https://forum.playverse.org/attachment.php?aid=2)
 
-> Jika kalian sudah menginstall SAMP versi lain silahkan di uninstall lalu install versi 0.3.7 melalui link diatas.
+> Jika kalian sudah menginstall SAMP versi lain silahkan di uninstall lalu install versi 0.3.7 melalui link diatas
+> Silahkan matikan antivirus kalian terlebih dahulu setelah berhasil memasang 2 aplikasi di atas silahkan kalian nyalahkan kembali antivirus kalian.
 
 
 ## Install SA:MP  
