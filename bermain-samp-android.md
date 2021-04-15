@@ -12,7 +12,7 @@ keywords:
 image: https://i.ibb.co/RgTHBQs/Untitled.png
 ---
 
-## Cara bermain di Android
+## Instalasi SA:MP Android dan Cara Bermain
 
 :::danger Important Note untuk *Android User Playverse*
 Pada **Playverse**, hanya anda dapat bermain pada Playverse dengan APK yang diberikan langsung dari **Playverse**. Jika anda menggunakan APK universal, maka akan mengakibatkan *terkick secara otomatis* pada saat login ke **Playverse**.
