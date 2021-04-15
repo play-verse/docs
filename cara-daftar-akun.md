@@ -12,7 +12,6 @@ keywords:
 image: https://i.ibb.co/3z5Qxrw/Untitled.png
 ---
 
-## Cara Daftar Akun di Playverse
   
 Untuk bisa bermain di server kami kalian diharuskan untuk mendaftarkan akun di server kami, Karena di server kami memiliki system UCP (*User Control Panel*) dimana kalian baru bisa masuk atau bermain di server kami setelah kalian pendafatrkan akun kalian di server kami. Bagaimana cara mendaftarkan akun di server playverse ? 
 
