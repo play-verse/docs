@@ -32,7 +32,7 @@ Silahkan matikan antivirus kalian terlebih dahulu setelah berhasil memasang 2 ap
 - Jika sudah memiliki game GTA SAnya silahkan kalian install SAMP versi 0.3.7 melalui link di atas
 - Setelah selesai mendownload SAMP 0.3.7 silahkan install seperti biasa, setelah muncul ini :
 
-![tutorial install samp client](https://steamuserimages-a.akamaihd.net/ugc/958603887339474389/EB6C84B8590DA5FA9263F7EBDF5AAEF7D4C7FC10/)
+![tutorial install samp client](https://otvet.imgsmail.ru/download/187841268_d000d4dca24d8df61999d5d51d2e3c5b_800.png)
 
 Silahkan agan klik "Browse" dan arahkan pada folder GTASA yang telah agan install sebelumnya. Misal : *D:/GAMES/GTA SA*
 
