@@ -15,7 +15,7 @@ image: https://i.ibb.co/RgTHBQs/Untitled.png
 Hallo playvers kalian baru bermain [*SA:MP*](https://www.sa-mp.com/) ? Bingung cara bermain SA:MP ? Sebelum bermain SA:MP pastikan kalian tahu cara menginstallnya terlebih dahulu. Kami akan memberi tahu cara menginstall SA:MP di PC/Laptop kalian. Silahkan perhatikan langkah-langkah di bawah ini dengan baik dan benar agar tidak terjadi kesalahan saat sedang meninstall.
 
 ## Download SA:MP + Voice
-Pilih sesuai versi yang anda inginkan, sesuaikan versi SA-MP Client dengan Voice Client, jika anda memilih SA-MP Client versi 0.3.7 R1 anda harus mendownload Voice versi 0.3.7 R1.
+Voice dapat berjalan hanya di versi 0.3.7 R3
 
 Silahkan download dibawah ini :
 
@@ -51,7 +51,7 @@ Silahkan agan klik "Browse" dan arahkan pada folder GTASA yang telah agan instal
 ## Install Voice
 
  - Jika kalian sudah menginstall SA-MP Client silahkan kalian install Voice Client melalui link diatas.
- - Harus diingat versi SA-MP Client dan Voice Client harus sama, misalnya SA-MP Client versi 0.3.7 R1 maka Voice Client harus versi 0.3.7 R1 juga.
+ - Harus diingat versi SA-MP Client dan Voice Client harus sama, misalnya SA-MP Client versi 0.3.7 R3 maka Voice Client harus versi 0.3.7 R3 juga.
  - Setelah berhasil di download silahkan kalian extract file tersebut, lalu copy semua file yang ada di dalam folder ke folder GTA SA kalian, Misal : *D:/GAMES/GTA SA*
  - Jika muncul seperti gambar ini :
 
