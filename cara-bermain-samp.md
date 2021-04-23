@@ -20,7 +20,7 @@ Pilih sesuai versi yang anda inginkan, sesuaikan versi SA-MP Client dengan Voice
 Silahkan download dibawah ini :
 
  **SA-MP Client** / **Voice Client**
- - [SA-MP 0.3.7 R1](https://drive.google.com/file/d/1Q-BypJuFQ70M_JdZeH6EEGzfNLxfI7dU/view?usp=sharing) / [Voice 0.3.7 R1](https://forum.playverse.org/attachment.php?aid=3)
+ 
  - [SA-MP 0.3.7 R3](https://drive.google.com/file/d/1zOht_KvMq-DSXKztaD9zsr2OxBZD0QyF/view?usp=sharing) / [Voice 0.3.7 R3](https://forum.playverse.org/attachment.php?aid=2)
 
 > Jika kalian sudah menginstall SA-MP Client versi lain, silahkan di uninstall terlebih dahulu kemudian download & install sesuai versi yang di inginkan melalui link di atas.<br/>
